@@ -1,5 +1,5 @@
 body{
-
+    display: block; 
     font: 100;
     font-size: 15px;
     color: red;
